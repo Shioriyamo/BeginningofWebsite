@@ -1,3 +1,13 @@
 h1 {
   color: red;
 }
+* {
+  background-color: black;
+}
+* {
+  color: white;
+}
+
+a {
+  color: blue;
+}
